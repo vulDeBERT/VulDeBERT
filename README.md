@@ -1,6 +1,7 @@
 # VulDeBERT: A Vulnerability Detection System Using BERT
 
-#### Soolin Kim, Jusop Choi, Ejaz Ahmed, Surya Nepal, and Hyoungshick Kim.
+#### Soolin Kim*, Jusop Choi*, Ejaz Ahmed**, Surya Nepal**, and Hyoungshick Kim*.
+#### Sungkyunkwan University*, CSIRO Data61**
 
 ---
 
@@ -11,5 +12,5 @@ Deep learning technologies recently received much attention to detect vulnerable
 
 
 
-* VulDeBERT dataset focuses on two types of vulnerabilities in C and C++ programs (i.g., buffer error vulnerability (CWE-119) and resource management error vulnerability (CWE-399)).
-## ___VulDeBERT source code will be able to access after acceptance of this paper___.
+* VulDeBERT dataset focuses on two types of vulnerabilities in C and C++ programs (i.e., buffer error vulnerability (CWE-119) and resource management error vulnerability (CWE-399)).
+## ___VulDeBERT source code will be publicly released.___.
